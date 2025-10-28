@@ -1,0 +1,18 @@
+# Core LangChain ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langserve
+
+# Web frameworks
+fastapi
+uvicorn
+
+# Front-end
+streamlit
+requests
+
+# Environment and config management
+python-dotenv
+
